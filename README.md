@@ -50,7 +50,7 @@ It demonstrates **HTML + CSS styling** with a futuristic theme using the [Orbitr
 
 ## 🔗 Live Demo / Repo
 
-👉 [View on GitHub](https://github.com/srcastt/your-repo)
+👉 [View on GitHub](https://github.com/srcastt/space-x-basic-clone)
 
 ---
 
