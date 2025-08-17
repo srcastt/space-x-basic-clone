@@ -1,10 +1,3 @@
-Got it 👍
-So instead of `banner.png`, we’ll use your existing image name **`spacex.png`** as the preview banner in the README.
-
-Here’s the updated README:
-
----
-
 # 🚀 Space Exploration Landing Page
 
 This project is a simple **landing page** inspired by space exploration (like SpaceX).
